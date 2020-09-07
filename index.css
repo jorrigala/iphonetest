@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+  }
+
+  body {
+      margin: 0px;
+      border: 0px;
+  }
+
+.maincontent {
+    align-content: center;
+    background: red;
+    margin: 5px;
+    border: 3px solid yellow;
+
+}
+
+.container {
+    max-height: 600px;
+    height: 100%;
+    overflow: scroll;
+}
+
+.center {
+    margin: auto;
+    width: 30%;
+    border: 1px solid green;
+  }
